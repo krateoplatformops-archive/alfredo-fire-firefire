@@ -1,0 +1,7 @@
+# 
+---
+namespace: alfredo-fire-firefire-ns
+image: ghcr.io/krateoplatformops-archive/alfredo-fire-firefire:latest
+replicas: 3
+name: alfredo-fire-firefire
+host: fireworks-app.krateo.site
